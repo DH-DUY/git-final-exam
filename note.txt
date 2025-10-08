@@ -1,0 +1,7 @@
+# Cảm nhận về Git
+
+- Git là một công cụ mạnh mẽ giúp tôi quản lý và theo dõi lịch sử thay đổi của dự án một cách có hệ thống, giúp tôi không bao giờ lo mất mát công việc.
+
+- Tính năng branch và merge của Git cho phép tôi thử nghiệm các ý tưởng mới mà không ảnh hưởng đến code chính, tạo ra môi trường làm việc an toàn và linh hoạt.
+
+- Khả năng làm việc nhóm thông qua Git và GitHub giúp tôi hiểu rõ hơn về quy trình phát triển phần mềm chuyên nghiệp và cách cộng tác hiệu quả với đồng nghiệp.
