@@ -5,7 +5,3 @@
 - Tính năng branch và merge của Git cho phép tôi thử nghiệm các ý tưởng mới mà không ảnh hưởng đến code chính, tạo ra môi trường làm việc an toàn và linh hoạt.
 
 - Khả năng làm việc nhóm thông qua Git và GitHub giúp tôi hiểu rõ hơn về quy trình phát triển phần mềm chuyên nghiệp và cách cộng tác hiệu quả với đồng nghiệp.
-
-- Việc học Git giúp tôi phát triển tư duy logic và kỹ năng giải quyết vấn đề, đặc biệt khi xử lý các xung đột merge và quản lý các phiên bản khác nhau của dự án.
-
-- Git không chỉ là công cụ kỹ thuật mà còn là nền tảng giúp tôi xây dựng thói quen làm việc có kỷ luật, viết message commit rõ ràng và duy trì lịch sử dự án sạch sẽ.
