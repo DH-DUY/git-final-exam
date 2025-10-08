@@ -1,4 +1,4 @@
-Xin chào, tôi tên là Dương Hoàng Duy. Tôi là một người năng động, ham học hỏi và luôn sẵn sàng làm việc nhóm.
+Hello, this is <Họ Tên>. Tôi là một người năng động, ham học hỏi và luôn sẵn sàng làm việc nhóm.
 Hiện tại tôi đang học tập và rèn luyện các kỹ năng lập trình cũng như quản lý mã nguồn bằng Git.
 Tôi thích giải quyết vấn đề, tối ưu hóa quy trình làm việc và học các công nghệ mới.
 Trong công việc và học tập, tôi chú trọng tính kỷ luật, giao tiếp rõ ràng và viết mã có thể bảo trì.
