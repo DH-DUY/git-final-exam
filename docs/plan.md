@@ -63,3 +63,6 @@ Nắm vững các lệnh Git cơ bản và quy trình làm việc với reposito
 - Đã học cách sử dụng git reset --soft và git revert
 - Hoàn thành tạo và merge các branch: feature-a, feature-update
 - Ghi nhận tiến bộ: từ cơ bản đến xử lý conflict và quản lý lịch sử commit
+
+## Kỹ năng nâng cao đã thực hành
+- Sử dụng git stash để lưu trữ thay đổi tạm thời khi chuyển đổi giữa các task
