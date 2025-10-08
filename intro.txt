@@ -1,0 +1,16 @@
+Xin chào, tôi tên là Dương Hoàng Duy. Tôi là một người năng động, ham học hỏi và luôn sẵn sàng làm việc nhóm.
+Hiện tại tôi đang học tập và rèn luyện các kỹ năng lập trình cũng như quản lý mã nguồn bằng Git.
+Tôi thích giải quyết vấn đề, tối ưu hóa quy trình làm việc và học các công nghệ mới.
+Trong công việc và học tập, tôi chú trọng tính kỷ luật, giao tiếp rõ ràng và viết mã có thể bảo trì.
+Mục tiêu ngắn hạn của tôi là thành thạo Git cơ bản và trung cấp để làm việc hiệu quả trong dự án nhóm.
+
+Sở thích:
+- Đọc sách kỹ thuật và sách phát triển bản thân
+- Lập trình nhỏ (script, project cá nhân)
+- Chạy bộ và tập thể dục
+
+Kỹ năng:
+- Quản lý mã nguồn với Git (init, commit, branch, merge, push/pull)
+- Lập trình cơ bản (Python / JavaScript)
+- Kỹ năng làm việc nhóm và giao tiếp kỹ thuật
+
