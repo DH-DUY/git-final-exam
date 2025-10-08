@@ -57,3 +57,9 @@ Nắm vững các lệnh Git cơ bản và quy trình làm việc với reposito
 - [ ] Tạo và merge Pull Request
 - [ ] Xử lý được merge conflict cơ bản
 - [ ] Biết cách undo/revert khi cần thiết
+
+## Ghi chú bổ sung
+- Thực hành merge conflict và giải quyết thành công với intro.txt
+- Đã học cách sử dụng git reset --soft và git revert
+- Hoàn thành tạo và merge các branch: feature-a, feature-update
+- Ghi nhận tiến bộ: từ cơ bản đến xử lý conflict và quản lý lịch sử commit
