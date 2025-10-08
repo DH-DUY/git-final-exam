@@ -1,0 +1,22 @@
+# Tính năng mới: Hệ thống quản lý tài liệu học tập
+
+## Mô tả tính năng
+Tính năng này cho phép người dùng tạo, chỉnh sửa và quản lý các tài liệu học tập một cách có hệ thống.
+Hệ thống sẽ hỗ trợ phân loại tài liệu theo chủ đề, mức độ khó và thời gian học.
+Người dùng có thể tạo lịch học tập cá nhân và theo dõi tiến độ hoàn thành.
+Tính năng bao gồm khả năng chia sẻ tài liệu với nhóm học tập và nhận phản hồi.
+Giao diện thân thiện với người dùng, hỗ trợ tìm kiếm nhanh và lọc tài liệu theo nhiều tiêu chí.
+
+## Lợi ích chính
+- Tổ chức tài liệu học tập một cách khoa học và hiệu quả
+- Theo dõi tiến độ học tập và đạt được mục tiêu đề ra
+- Tăng cường tính tương tác và hợp tác trong nhóm học
+- Tiết kiệm thời gian tìm kiếm và quản lý tài liệu
+- Cải thiện chất lượng học tập thông qua hệ thống phản hồi
+
+## Công nghệ sử dụng
+- Frontend: HTML, CSS, JavaScript (React.js)
+- Backend: Node.js với Express framework
+- Database: MongoDB để lưu trữ tài liệu và thông tin người dùng
+- Authentication: JWT cho bảo mật đăng nhập
+- File Storage: AWS S3 cho lưu trữ file tài liệu
