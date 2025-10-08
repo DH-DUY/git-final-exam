@@ -1,4 +1,5 @@
 Hello, this is <Họ Tên>. Tôi là một người năng động, ham học hỏi và luôn sẵn sàng làm việc nhóm.
+Xin chào, tôi là <Họ Tên>. Tôi là một người năng động, ham học hỏi và luôn sẵn sàng làm việc nhóm.
 Hiện tại tôi đang học tập và rèn luyện các kỹ năng lập trình cũng như quản lý mã nguồn bằng Git.
 Tôi thích giải quyết vấn đề, tối ưu hóa quy trình làm việc và học các công nghệ mới.
 Trong công việc và học tập, tôi chú trọng tính kỷ luật, giao tiếp rõ ràng và viết mã có thể bảo trì.
@@ -20,4 +21,4 @@ Mục tiêu học tập:
 - Dài hạn (6 tháng+): thiết lập workflow CI/CD cơ bản (ví dụ GitHub Actions), bảo mật repository (protected branches, gpg-sign), và hướng dẫn người khác sử dụng Git.
 - Tiêu chí đánh giá: có thể hoàn thành một dự án nhỏ với lịch sử commit hợp lý, mở ít nhất 2 PR đã review và merged, và xử lý thành công >1 conflict do merge/rebase.
 
-
+Conflict resolved on 08/10/2025.
